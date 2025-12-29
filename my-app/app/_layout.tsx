@@ -1,5 +1,5 @@
 import { Stack, router } from "expo-router";
-import { View, Text, Pressable } from "react-native";
+import { Text, Pressable } from "react-native";
 
 export default function RootLayout() {
   return (
